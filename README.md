@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shiv270
-- 👀 I’m interested in nothing
+- 👀 I’m interested in Web DEvelopment
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
